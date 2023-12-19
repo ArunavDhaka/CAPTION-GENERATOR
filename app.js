@@ -1,4 +1,4 @@
-const API_KEY="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"
+const API_KEY="/*Paste your generated CHAT GPT API KEY here inside the double quotes*/"
 const submitButton= document.querySelector('#submit')
 const outPutElement= document.querySelector('#output')
 const inputElement= document.querySelector('input')
